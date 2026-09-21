@@ -35,7 +35,6 @@ Interested in full-stack development, UI/UX, and turning ideas into practical so
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=for-the-badge\&logo=cloudinary\&logoColor=white)
-![Isar](https://img.shields.io/badge/-Isar-5A67D8?style=for-the-badge\&logo=database\&logoColor=white)
 
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
