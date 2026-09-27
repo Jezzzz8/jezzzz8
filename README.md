@@ -47,6 +47,7 @@ Software developer focused on building mobile apps, web applications, database s
 ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge\&logo=godotengine\&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge\&logo=git\&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge\&logo=apache-netbeans-ide\&logoColor=FFFFFF)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge\&logo=androidstudio\&logoColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=FFFFFF)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge\&logo=xampp\&logoColor=FFFFFF)
