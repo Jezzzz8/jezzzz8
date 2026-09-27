@@ -56,12 +56,6 @@ Software developer focused on building mobile apps, web applications, database s
 <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=jezzzz8&layout=donut&theme=dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1B2A"/>
 </p>
 
-## 🔥 Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=jezzzz8&theme=dark&hide_border=true&background=0D1B2A&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="55%"/>
-</p>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A&height=100&section=footer" width="100%"/>
 </div>
