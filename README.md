@@ -30,9 +30,9 @@ Software developer focused on building mobile apps, web applications, database s
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge\&logo=css\&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=FFFFFF)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=FFFFFF)
-
 ![JavaFX](https://img.shields.io/badge/-JavaFX-5382A1?style=for-the-badge\&logo=openjdk\&logoColor=FFFFFF)
 ![Java Swing](https://img.shields.io/badge/-Java%20Swing-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=FFFFFF)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=FFFFFF)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=FFFFFF)
